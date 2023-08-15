@@ -1,0 +1,5 @@
+---
+ - name: httpd
+   dnf:
+     name: httpd
+     state: latest
